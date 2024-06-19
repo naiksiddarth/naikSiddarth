@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security 
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me siddarthnaik7@gmail.com
+- 📫 How to reach me siddarthnaik2007@gmail.com
 <!-- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: --->
 
