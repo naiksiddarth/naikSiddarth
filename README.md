@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @naikSiddarth ( Siddarth Naik)
-- 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @naiksiddarth ( Siddarth Naik)
+- 👀 I’m interested in IoT 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me siddarthnaik2007@gmail.com
 <!-- 😄 Pronouns: He/Him 
