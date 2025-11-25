@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me siddarthnaik2131@gmail.com
-😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 <!-- 
 - ⚡ Fun fact: --->
 
