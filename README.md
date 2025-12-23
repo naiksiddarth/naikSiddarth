@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naiksiddarth ( Siddarth Naik)
 - 👀 I’m interested in IoT 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on N/A
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me siddarthnaik2131@gmail.com
 - 😄 Pronouns: He/Him
 <!-- 
